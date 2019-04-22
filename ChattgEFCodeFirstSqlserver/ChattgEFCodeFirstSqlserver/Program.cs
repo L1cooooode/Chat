@@ -10,7 +10,7 @@ namespace ChattgEFCodeFirstSqlserver
     {
         public static void Main(string[] args)
         {
-            using (Model1 db = new Model1()) {
+            using (Model2 db = new Model2()) {
                 db.Userinfoes.Add(new Userinfo() { Id = 1, UserNumber = "a12345", UserName = "沉鱼落雁",UserPassword="123456", UserResignDate=DateTime.Now });
                 db.SaveChanges();
             }

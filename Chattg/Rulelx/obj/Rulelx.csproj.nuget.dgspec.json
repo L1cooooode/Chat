@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lx\\source\\repos\\Chattg\\Rulelx\\Rulelx.csproj": {}
+    "C:\\Users\\Lx\\Desktop\\计科164赖鑫\\Chattg\\Rulelx\\Rulelx.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lx\\source\\repos\\Chattg\\Rulelx\\Rulelx.csproj": {
+    "C:\\Users\\Lx\\Desktop\\计科164赖鑫\\Chattg\\Rulelx\\Rulelx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lx\\source\\repos\\Chattg\\Rulelx\\Rulelx.csproj",
+        "projectUniqueName": "C:\\Users\\Lx\\Desktop\\计科164赖鑫\\Chattg\\Rulelx\\Rulelx.csproj",
         "projectName": "Rulelx",
-        "projectPath": "C:\\Users\\Lx\\source\\repos\\Chattg\\Rulelx\\Rulelx.csproj",
+        "projectPath": "C:\\Users\\Lx\\Desktop\\计科164赖鑫\\Chattg\\Rulelx\\Rulelx.csproj",
         "packagesPath": "C:\\Users\\Lx\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lx\\source\\repos\\Chattg\\Rulelx\\obj\\",
+        "outputPath": "C:\\Users\\Lx\\Desktop\\计科164赖鑫\\Chattg\\Rulelx\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\ProgramData\\Xamarin\\NuGet\\",

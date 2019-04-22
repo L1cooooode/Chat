@@ -63,7 +63,7 @@ namespace Chattg
             }
             return true;
         }
-        public string SearchName(string addUserNumber)//查询该账号的昵称
+        public string SearchName(string addUserNumber)//查询账号是否存在
         {
             using (Model1 db = new Model1())
             {

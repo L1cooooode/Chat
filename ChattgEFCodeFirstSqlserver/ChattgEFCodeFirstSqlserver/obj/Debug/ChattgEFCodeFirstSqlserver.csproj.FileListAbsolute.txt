@@ -1,0 +1,13 @@
+C:\Users\Lx\Desktop\新建文件夹\ChattgEFCodeFirstSqlserver\ChattgEFCodeFirstSqlserver\bin\Debug\ChattgEFCodeFirstSqlserver.exe.config
+C:\Users\Lx\Desktop\新建文件夹\ChattgEFCodeFirstSqlserver\ChattgEFCodeFirstSqlserver\bin\Debug\ChattgEFCodeFirstSqlserver.exe
+C:\Users\Lx\Desktop\新建文件夹\ChattgEFCodeFirstSqlserver\ChattgEFCodeFirstSqlserver\bin\Debug\ChattgEFCodeFirstSqlserver.pdb
+C:\Users\Lx\Desktop\新建文件夹\ChattgEFCodeFirstSqlserver\ChattgEFCodeFirstSqlserver\bin\Debug\EntityFramework.dll
+C:\Users\Lx\Desktop\新建文件夹\ChattgEFCodeFirstSqlserver\ChattgEFCodeFirstSqlserver\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lx\Desktop\新建文件夹\ChattgEFCodeFirstSqlserver\ChattgEFCodeFirstSqlserver\bin\Debug\EntityFramework.xml
+C:\Users\Lx\Desktop\新建文件夹\ChattgEFCodeFirstSqlserver\ChattgEFCodeFirstSqlserver\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lx\Desktop\新建文件夹\ChattgEFCodeFirstSqlserver\ChattgEFCodeFirstSqlserver\bin\Debug\zh-Hans\EntityFramework.resources.dll
+C:\Users\Lx\Desktop\新建文件夹\ChattgEFCodeFirstSqlserver\ChattgEFCodeFirstSqlserver\obj\Debug\ChattgEFCodeFirstSqlserver.csprojAssemblyReference.cache
+C:\Users\Lx\Desktop\新建文件夹\ChattgEFCodeFirstSqlserver\ChattgEFCodeFirstSqlserver\obj\Debug\ChattgEFCodeFirstSqlserver.csproj.CoreCompileInputs.cache
+C:\Users\Lx\Desktop\新建文件夹\ChattgEFCodeFirstSqlserver\ChattgEFCodeFirstSqlserver\obj\Debug\ChattgEFCodeFirstSqlserver.csproj.CopyComplete
+C:\Users\Lx\Desktop\新建文件夹\ChattgEFCodeFirstSqlserver\ChattgEFCodeFirstSqlserver\obj\Debug\ChattgEFCodeFirstSqlserver.exe
+C:\Users\Lx\Desktop\新建文件夹\ChattgEFCodeFirstSqlserver\ChattgEFCodeFirstSqlserver\obj\Debug\ChattgEFCodeFirstSqlserver.pdb
