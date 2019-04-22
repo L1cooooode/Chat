@@ -1,0 +1,9 @@
+C:\Users\Lx\source\repos\ChattgServer\netstandard2.0\Rulelx.deps.json
+C:\Users\Lx\source\repos\ChattgServer\netstandard2.0\Rulelx.dll
+C:\Users\Lx\source\repos\ChattgServer\netstandard2.0\Rulelx.pdb
+C:\Users\Lx\source\repos\Chattg\Rulelx\obj\Debug\netstandard2.0\Rulelx.csprojAssemblyReference.cache
+C:\Users\Lx\source\repos\Chattg\Rulelx\obj\Debug\netstandard2.0\Rulelx.csproj.CoreCompileInputs.cache
+C:\Users\Lx\source\repos\Chattg\Rulelx\obj\Debug\netstandard2.0\Rulelx.AssemblyInfoInputs.cache
+C:\Users\Lx\source\repos\Chattg\Rulelx\obj\Debug\netstandard2.0\Rulelx.AssemblyInfo.cs
+C:\Users\Lx\source\repos\Chattg\Rulelx\obj\Debug\netstandard2.0\Rulelx.dll
+C:\Users\Lx\source\repos\Chattg\Rulelx\obj\Debug\netstandard2.0\Rulelx.pdb
